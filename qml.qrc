@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>components/qmldir</file>
+        <file>components/MyBubble1.qml</file>
+        <file>components/MyBubble2.qml</file>
+        <file>components/MyHand.qml</file>
+    </qresource>
+</RCC>

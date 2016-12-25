@@ -1,0 +1,4 @@
+module components
+Bubble 1.0 MyBubble1.qml
+Bubble 2.0 MyBubble2.qml
+Hand   1.0 MyHand.qml
